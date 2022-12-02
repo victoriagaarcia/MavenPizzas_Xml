@@ -1,2 +1,2 @@
 # MavenPizzas_Xml
-Se extraen en un fichero .xml el análisis de calidad de los datos proporcionados por la pizzería en 2016 y la recomendación de compra semanal especificando la cantidad de cada ingrediente.
+Se extraen en un fichero .xml el análisis de calidad de los datos proporcionados por la pizzería en 2016 y la recomendación de compra semanal especificando la cantidad de cada ingrediente. Dicho fichero puede leerse desde un navegador web, como puede ser Microsoft Edge, desde un programa como Visual Studio Code o desde un lector de texto. Se mantiene la estructura de tags y la indentación, facilitándose su lectura.
