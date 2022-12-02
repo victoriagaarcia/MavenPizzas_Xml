@@ -1,0 +1,301 @@
+<root>
+  <analisis_calidad>
+    <orders>
+      <order_id>
+        <Tipo_de_datos>int64</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </order_id>
+      <date>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>2353</Numero_de_NaNs>
+        <Numero_de_Nulls>2353</Numero_de_Nulls>
+      </date>
+      <time>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>2038</Numero_de_NaNs>
+        <Numero_de_Nulls>2038</Numero_de_Nulls>
+      </time>
+    </orders>
+    <order_details>
+      <order_details_id>
+        <Tipo_de_datos>int64</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </order_details_id>
+      <order_id>
+        <Tipo_de_datos>int64</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </order_id>
+      <pizza_id>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>5673</Numero_de_NaNs>
+        <Numero_de_Nulls>5673</Numero_de_Nulls>
+      </pizza_id>
+      <quantity>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>4726</Numero_de_NaNs>
+        <Numero_de_Nulls>4726</Numero_de_Nulls>
+      </quantity>
+    </order_details>
+    <pizzas>
+      <pizza_id>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </pizza_id>
+      <pizza_type_id>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </pizza_type_id>
+      <size>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </size>
+      <price>
+        <Tipo_de_datos>float64</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </price>
+    </pizzas>
+    <pizza_types>
+      <pizza_type_id>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </pizza_type_id>
+      <name>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </name>
+      <category>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </category>
+      <ingredients>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </ingredients>
+    </pizza_types>
+    <data_dictionary>
+      <Table>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </Table>
+      <Field>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </Field>
+      <Description>
+        <Tipo_de_datos>object</Tipo_de_datos>
+        <Numero_de_NaNs>0</Numero_de_NaNs>
+        <Numero_de_Nulls>0</Numero_de_Nulls>
+      </Description>
+    </data_dictionary>
+  </analisis_calidad>
+  <recomendacion_compra_semanal>
+    <Barbecued_Chicken atributo="ingrediente">
+      <Cantidad atributo="kg">4.5</Cantidad>
+    </Barbecued_Chicken>
+    <Red_Peppers atributo="ingrediente">
+      <Cantidad atributo="kg">27.2</Cantidad>
+    </Red_Peppers>
+    <Green_Peppers atributo="ingrediente">
+      <Cantidad atributo="kg">9.2</Cantidad>
+    </Green_Peppers>
+    <Tomatoes atributo="ingrediente">
+      <Cantidad atributo="kg">44.7</Cantidad>
+    </Tomatoes>
+    <Red_Onions atributo="ingrediente">
+      <Cantidad atributo="kg">32.5</Cantidad>
+    </Red_Onions>
+    <Barbecue_Sauce atributo="ingrediente">
+      <Cantidad atributo="kg">4.5</Cantidad>
+    </Barbecue_Sauce>
+    <Chicken atributo="ingrediente">
+      <Cantidad atributo="kg">14.3</Cantidad>
+    </Chicken>
+    <Artichoke atributo="ingrediente">
+      <Cantidad atributo="kg">3.9</Cantidad>
+    </Artichoke>
+    <Spinach atributo="ingrediente">
+      <Cantidad atributo="kg">15.6</Cantidad>
+    </Spinach>
+    <Garlic atributo="ingrediente">
+      <Cantidad atributo="kg">46.0</Cantidad>
+    </Garlic>
+    <Jalapeno_Peppers atributo="ingrediente">
+      <Cantidad atributo="kg">9.8</Cantidad>
+    </Jalapeno_Peppers>
+    <Fontina_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">5.2</Cantidad>
+    </Fontina_Cheese>
+    <Gouda_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">3.9</Cantidad>
+    </Gouda_Cheese>
+    <Mushrooms atributo="ingrediente">
+      <Cantidad atributo="kg">14.4</Cantidad>
+    </Mushrooms>
+    <Asiago_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">5.3</Cantidad>
+    </Asiago_Cheese>
+    <Alfredo_Sauce atributo="ingrediente">
+      <Cantidad atributo="kg">1.4</Cantidad>
+    </Alfredo_Sauce>
+    <Pesto_Sauce atributo="ingrediente">
+      <Cantidad atributo="kg">4.3</Cantidad>
+    </Pesto_Sauce>
+    <Corn atributo="ingrediente">
+      <Cantidad atributo="kg">5.9</Cantidad>
+    </Corn>
+    <Cilantro atributo="ingrediente">
+      <Cantidad atributo="kg">5.9</Cantidad>
+    </Cilantro>
+    <Chipotle_Sauce atributo="ingrediente">
+      <Cantidad atributo="kg">5.9</Cantidad>
+    </Chipotle_Sauce>
+    <Pineapple atributo="ingrediente">
+      <Cantidad atributo="kg">7.9</Cantidad>
+    </Pineapple>
+    <Thai_Sweet_Chilli_Sauce atributo="ingrediente">
+      <Cantidad atributo="kg">4.1</Cantidad>
+    </Thai_Sweet_Chilli_Sauce>
+    <Bacon atributo="ingrediente">
+      <Cantidad atributo="kg">5.5</Cantidad>
+    </Bacon>
+    <Pepperoni atributo="ingrediente">
+      <Cantidad atributo="kg">15.4</Cantidad>
+    </Pepperoni>
+    <Italian_Sausage atributo="ingrediente">
+      <Cantidad atributo="kg">1.9</Cantidad>
+    </Italian_Sausage>
+    <Chorizo_Sausage atributo="ingrediente">
+      <Cantidad atributo="kg">1.9</Cantidad>
+    </Chorizo_Sausage>
+    <Sliced_Ham atributo="ingrediente">
+      <Cantidad atributo="kg">3.8</Cantidad>
+    </Sliced_Ham>
+    <Mozzarella_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">17.9</Cantidad>
+    </Mozzarella_Cheese>
+    <Capocollo atributo="ingrediente">
+      <Cantidad atributo="kg">11.2</Cantidad>
+    </Capocollo>
+    <Goat_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">5.6</Cantidad>
+    </Goat_Cheese>
+    <Oregano atributo="ingrediente">
+      <Cantidad atributo="kg">2.3</Cantidad>
+    </Oregano>
+    <Anchovies atributo="ingrediente">
+      <Cantidad atributo="kg">2.1</Cantidad>
+    </Anchovies>
+    <Green_Olives atributo="ingrediente">
+      <Cantidad atributo="kg">9.6</Cantidad>
+    </Green_Olives>
+    <Kalamata_Olives atributo="ingrediente">
+      <Cantidad atributo="kg">5.6</Cantidad>
+    </Kalamata_Olives>
+    <Feta_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">7.6</Cantidad>
+    </Feta_Cheese>
+    <Beef_Chuck_Roast atributo="ingrediente">
+      <Cantidad atributo="kg">2.8</Cantidad>
+    </Beef_Chuck_Roast>
+    <Brie_Carre_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">0.5</Cantidad>
+    </Brie_Carre_Cheese>
+    <Prosciutto atributo="ingrediente">
+      <Cantidad atributo="kg">0.5</Cantidad>
+    </Prosciutto>
+    <Caramelized_Onions atributo="ingrediente">
+      <Cantidad atributo="kg">0.5</Cantidad>
+    </Caramelized_Onions>
+    <Pears atributo="ingrediente">
+      <Cantidad atributo="kg">0.5</Cantidad>
+    </Pears>
+    <Thyme atributo="ingrediente">
+      <Cantidad atributo="kg">0.5</Cantidad>
+    </Thyme>
+    <Nduja_Salami atributo="ingrediente">
+      <Cantidad atributo="kg">1.5</Cantidad>
+    </Nduja_Salami>
+    <Pancetta atributo="ingrediente">
+      <Cantidad atributo="kg">1.5</Cantidad>
+    </Pancetta>
+    <Friggitello_Peppers atributo="ingrediente">
+      <Cantidad atributo="kg">1.5</Cantidad>
+    </Friggitello_Peppers>
+    <Calabrese_Salami atributo="ingrediente">
+      <Cantidad atributo="kg">3.2</Cantidad>
+    </Calabrese_Salami>
+    <Genoa_Salami atributo="ingrediente">
+      <Cantidad atributo="kg">2.5</Cantidad>
+    </Genoa_Salami>
+    <Prosciutto_di_San_Daniele atributo="ingrediente">
+      <Cantidad atributo="kg">2.2</Cantidad>
+    </Prosciutto_di_San_Daniele>
+    <Arugula atributo="ingrediente">
+      <Cantidad atributo="kg">2.2</Cantidad>
+    </Arugula>
+    <Coarse_Sicilian_Salami atributo="ingrediente">
+      <Cantidad atributo="kg">3.0</Cantidad>
+    </Coarse_Sicilian_Salami>
+    <Luganega_Sausage atributo="ingrediente">
+      <Cantidad atributo="kg">3.0</Cantidad>
+    </Luganega_Sausage>
+    <Onions atributo="ingrediente">
+      <Cantidad atributo="kg">3.0</Cantidad>
+    </Onions>
+    <Soppressata_Salami atributo="ingrediente">
+      <Cantidad atributo="kg">1.4</Cantidad>
+    </Soppressata_Salami>
+    <Artichokes atributo="ingrediente">
+      <Cantidad atributo="kg">8.8</Cantidad>
+    </Artichokes>
+    <Peperoncini_verdi atributo="ingrediente">
+      <Cantidad atributo="kg">3.3</Cantidad>
+    </Peperoncini_verdi>
+    <Provolone_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">3.1</Cantidad>
+    </Provolone_Cheese>
+    <Smoked_Gouda_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">3.1</Cantidad>
+    </Smoked_Gouda_Cheese>
+    <Romano_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">3.1</Cantidad>
+    </Romano_Cheese>
+    <Blue_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">3.1</Cantidad>
+    </Blue_Cheese>
+    <Ricotta_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">3.6</Cantidad>
+    </Ricotta_Cheese>
+    <Gorgonzola_Piccante_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">3.6</Cantidad>
+    </Gorgonzola_Piccante_Cheese>
+    <Parmigiano_Reggiano_Cheese atributo="ingrediente">
+      <Cantidad atributo="kg">3.6</Cantidad>
+    </Parmigiano_Reggiano_Cheese>
+    <Eggplant atributo="ingrediente">
+      <Cantidad atributo="kg">1.3</Cantidad>
+    </Eggplant>
+    <Zucchini atributo="ingrediente">
+      <Cantidad atributo="kg">3.8</Cantidad>
+    </Zucchini>
+    <Sundried_Tomatoes atributo="ingrediente">
+      <Cantidad atributo="kg">2.8</Cantidad>
+    </Sundried_Tomatoes>
+    <Plum_Tomatoes atributo="ingrediente">
+      <Cantidad atributo="kg">1.4</Cantidad>
+    </Plum_Tomatoes>
+  </recomendacion_compra_semanal>
+</root>
