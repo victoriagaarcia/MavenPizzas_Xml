@@ -1,0 +1,2 @@
+pandas
+pycopy-xml.etree.ElementTree
